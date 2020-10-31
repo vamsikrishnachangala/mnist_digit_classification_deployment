@@ -5,4 +5,5 @@ keras
 numpy
 h5py
 pillow
-
+imageio
+scikitimage
